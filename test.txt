@@ -7,4 +7,4 @@ https://github.com/username/저장소이름
 
 https://github.com/whhbin1201/gitTest
 
-https://github.com/whhbin1201/gitTest.git
+https://github.com/whhbin1201/gitTest.g
